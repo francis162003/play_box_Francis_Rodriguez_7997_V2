@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v5.0,Profile=windows": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v5.0,Profile=windows": []
+  },
+  "packageFolders": {
+    "C:\\Users\\IMPRESORAS\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\IMPRESORAS\\Desktop\\EXPERIMENTACION\\PlayBox_7997-master\\PlayBox_7997-master\\FRANCIS_ALEJANDRO_RODRIGUEZ_CHICAIZA\\Tetris\\Tetris.csproj",
+      "projectName": "Tetris",
+      "projectPath": "C:\\Users\\IMPRESORAS\\Desktop\\EXPERIMENTACION\\PlayBox_7997-master\\PlayBox_7997-master\\FRANCIS_ALEJANDRO_RODRIGUEZ_CHICAIZA\\Tetris\\Tetris.csproj",
+      "packagesPath": "C:\\Users\\IMPRESORAS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IMPRESORAS\\Desktop\\EXPERIMENTACION\\PlayBox_7997-master\\PlayBox_7997-master\\FRANCIS_ALEJANDRO_RODRIGUEZ_CHICAIZA\\Tetris\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\IMPRESORAS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net50-windows"
+      ],
+      "sources": {
+        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net50-windows": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net50-windows": {}
+    }
+  }
+}
